@@ -1,5 +1,5 @@
 # ASMlanguage
-Course project about assembly language
+Course project about assembly language.
 
 ## Choose difficulty level
 ![](https://github.com/zhouyangpkuer/ASMlanguage/blob/master/pic/choose.png)
